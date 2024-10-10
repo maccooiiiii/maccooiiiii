@@ -11,7 +11,7 @@
 <h3 align="center">A passionate writer and creative designer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maccooiiiii&label=Profile%20views&color=0e75b6&style=flat" alt="ian-joseph-musa" /> </p>
+<p align="left"> <img src="(https://raw.githubusercontent.com/maccooiiiii/maccooiiiii/master/Assets/CODER.jpg)/> </p>
 
 - 🔭 I’m currently working as **Freelancer**
 
