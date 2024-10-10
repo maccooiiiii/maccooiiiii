@@ -25,8 +25,7 @@
 
 - ⚡ Fun fact **I am a robot fueled by a good amount of coffee**
 
-## 🌱 I'm Currently Learning
-
+- 🌱 I'm Currently Learning
 - Advanced techniques in animation
 - UX/UI design principles
 - New features in Adobe Creative Suite
