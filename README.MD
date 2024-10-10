@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **your business demands**
 
-- 🤝 I’m looking for help with **Digital Marketing, Customer Service and Administrative Services**
+- 🤝 I’m looking for help with **Digital Marketing, Multimedia Editing, Quality Assurance, Customer Service and Administrative Services**
 
 - 💬 Ask me about **Literature, Arts and Music**
 
