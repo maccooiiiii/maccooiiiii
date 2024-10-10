@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/maccooiiiii/maccooiiiii/master/Assets/GITHUB_BANNER.jpg)
+![Header image](https://raw.githubusercontent.com/maccooiiiii/ianmusa/master/Assets/GITHUB_BANNER.jpg)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ian-joseph-musa-4495b0232/)](https://www.linkedin.com/in/ian-joseph-musa-4495b0232/)
@@ -8,27 +8,22 @@
 
 
 <h1 align="center">Hi 👋, I'm Ian Joseph Musa</h1>
-<h3 align="center">A passionate writer and creative designer from Philippines</h3>
+<h3 align="center">A passionate creative writer and designer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif">
 
-<p align="left"> <img src="(https://raw.githubusercontent.com/maccooiiiii/maccooiiiii/master/Assets/CODER.jpg)/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maccooiiiii&label=Profile%20views&color=0e75b6&style=flat" alt="ian-joseph-musa" /> </p>
 
 - 🔭 I’m currently working as **Freelancer**
 
 - 👯 I’m looking to collaborate on **your business demands**
 
-- 🤝 I’m looking for help with **Digital Marketing, Multimedia Editing, Quality Assurance, Customer Service and Administrative Services**
+- 🤝 I’m looking for help with **Digital Marketing, Customer Service and Administrative Services**
 
 - 💬 Ask me about **Literature, Arts and Music**
 
 - 📫 How to reach me **musaianjoseph@gmail.com**
 
 - ⚡ Fun fact **I am a robot fueled by a good amount of coffee**
-
-- 🌱 I'm Currently Learning
-     -  Advanced techniques in animation
-     -  UX/UI design principles
-     -  New features in Adobe Creative Suite
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
