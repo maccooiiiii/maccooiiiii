@@ -15,9 +15,9 @@
 
 - 🔭 I’m currently working as **Freelancer**
 
-- 👯 I’m looking to collaborate on **your business demands**
+- 👯 I’m looking to collaborate on **Digital Marketing, Customer Service and Administrative Services**
 
-- 🤝 I’m looking for help with **Digital Marketing, Customer Service and Administrative Services**
+- 🤝 I’m looking for help with **Cooking 🧑🏻‍🍳**
 
 - 💬 Ask me about **Literature, Arts and Music**
 
