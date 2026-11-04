@@ -7,7 +7,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Ian Joseph Musa</h1>
+<h1 align="center">Hi 👋, I'm Ian Musa</h1>
 <h3 align="center">A passionate writer and creative designer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif">
 
