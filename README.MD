@@ -9,6 +9,9 @@
 </p>
 
 <p align="center">
+  <a href="https://www.ianmusa.com">
+    <img src="https://img.shields.io/badge/Portfolio-ianmusa.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/ian-joseph-musa-4495b0232/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -54,6 +57,34 @@ Outside my professional work, I explore web development, digital art, photograph
 ---
 
 ## 🚀 Featured Projects
+
+### 🌐 [ianmusa.com](https://www.ianmusa.com) — Personal Portfolio
+
+My personal portfolio brings together my work in data analytics, software development, and creative design. It's the best place to see my projects, background, and the things I'm currently building.
+
+- 💼 Professional background and experience
+- 🛠️ Software, web, and data projects
+- 🎨 Design and creative work
+
+<p>
+  <a href="https://www.ianmusa.com">
+    <img src="https://img.shields.io/badge/Visit-ianmusa.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit ianmusa.com"/>
+  </a>
+</p>
+
+### 🎨 [Sining Space](https://siningspace.com/) — Creative Space for Digital Art
+
+I created **Sining Space**, an independent creative space for digital art and creative expression. *Sining* means "art" in Filipino, and the platform gives artists and creatives a place to share, explore, and celebrate their work.
+
+- 🖼️ Showcases digital art and creative works
+- 🤝 Builds a community for artists and creatives
+- ✨ Encourages creative expression and exploration
+
+<p>
+  <a href="https://siningspace.com/">
+    <img src="https://img.shields.io/badge/Visit-Sining%20Space-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Sining Space"/>
+  </a>
+</p>
 
 ### 🤫 [Shuusshy](#) — Noise Cancelling App
 
@@ -121,7 +152,7 @@ A little coffee, a good idea, and a willingness to learn can go a long way. ☕
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+  Thanks for visiting my profile! Feel free to explore my portfolio, repositories, and connect with me.
 </p>
 
 <p align="center">
