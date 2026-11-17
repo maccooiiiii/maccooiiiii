@@ -86,13 +86,19 @@ I created **Sining Space**, an independent creative space for digital art and cr
   </a>
 </p>
 
-### 🤫 [Shuusshy](#) — Noise Cancelling App
+### 🤫 [Shuusshy](https://maccooiiiii.github.io/shuusshy/) — Noise Cancelling App
 
 I created **Shuusshy**, a noise cancelling app that filters out background noise so you can focus, work, study, or rest more calmly. It came from my interest in building practical tools that make everyday life a little quieter and easier.
 
 - 🎧 Reduces background noise
 - 🧘 Built for focus and calm
 - 📱 Simple, easy-to-use interface
+
+<p>
+  <a href="https://maccooiiiii.github.io/shuusshy/">
+    <img src="https://img.shields.io/badge/Try-Shuusshy-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Try Shuusshy"/>
+  </a>
+</p>
 
 ---
 
