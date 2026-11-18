@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/silenced_sonata/">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:musaianjoseph@gmail.com">
+  <a href="mailto:ian@ianmusa.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://x.com/heyow_ian">
